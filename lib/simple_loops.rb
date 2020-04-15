@@ -5,7 +5,7 @@ def loop_message_five_times(string)
   while counter < 5 do
     puts array[counter]
     counter += 1
-  end  
+  end
 end
 
 def loop_message_n_times(string, integer)
